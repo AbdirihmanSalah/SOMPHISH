@@ -12,7 +12,7 @@ This tool will steal the credentails of a person
 - `cd SOMPHISH`
 - `sudo chmod 777 *`
 - open a new terminal and type `./ngrok http 80`
-- `bash SomPhish.sh
+- `bash SomPhish.sh`
 - if you have any doubt means check out reference down below
 
 # Steps to run this tool on android(termux):
@@ -27,4 +27,4 @@ This tool will steal the credentails of a person
 # Reference
 <img src="Somphish.png"></img>
 
-  This Created by: Abdirihman Salah Mohamed 
+  This Tool Created by: Abdirihman Salah Mohamed 
